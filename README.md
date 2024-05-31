@@ -7,11 +7,6 @@ Welcome to my blog website! This platform is designed to share articles, stories
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Translation Services](#translation-services)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact](#contact)
 
 ## Introduction
 
